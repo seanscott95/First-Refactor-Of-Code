@@ -1,8 +1,8 @@
 # Week.1.Homework
 Changes to code
 HTML
-1.Changed title of web page to Horiseon, Line 7
-2.Changed class header into a header element, Line 11
+1. Changed title of web page to Horiseon, Line 7
+2. Changed class header into a header element, Line 11
 3. Changed div tag into a nav tag, Line 13
 4. Added title to img in class "hero", Line 22
 5. Change div tag into section tag, Line 24
