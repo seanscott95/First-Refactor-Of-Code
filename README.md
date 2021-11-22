@@ -1,4 +1,6 @@
 # Week.1.Homework
+Asked to create a codebase that follows accessibility standards so the site is optimized for search engines.
+
 Changes to code
 HTML
 1. Changed title of web page to Horiseon, Line 7
