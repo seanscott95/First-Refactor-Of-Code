@@ -4,7 +4,7 @@ This project required refactoring of an existing websites code to follow the acc
 
 Writing this code consisted of changing images to include alts, changing the title, checking links and semantics of the files. Features that make it easier for those with certain disabilities.
 
-![Website Photo 1](.\assets\images\Website.Photo.1.png "Website Photo 1")
-![Website Photo 2](.\assets\images\Website.Photo.2.png "Website Photo 2")
+![Website Photo 1](.\assets\images\Website.Photo.1.png)
+![Website Photo 2](.\assets\images\Website.Photo.2.png)
 
 LINK TO FINSIHED CODE: https://seanscott95.github.io/WFirst-Refactor-Of-Code/
